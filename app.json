@@ -1,0 +1,39 @@
+{
+  "id": "b0e535de-ddaf-4389-ba54-06c97d89d506",
+  "name": "APICTest",
+  "publisher": "Volvo Financial Services",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "7a80b3fc-6cc3-49ac-af9d-2baed5d67cd6",
+      "name": "VFS Base App",
+      "publisher": "Infosys",
+      "version": "1.0.0.1"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50800,
+      "to": 50849
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
